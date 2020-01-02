@@ -11,11 +11,7 @@ Processing and basic analysis of natural language datasets (corpora)
 Resources
 
 The NLTK book
+https://www.nltk.org/book/
 
-The NLTK book covers almost all of the topics we will cover in this class, though not always with the same specifics and level of detail: we encourage you to take a look, but note that the lecture notebooks should take precedence!
-Python documentation
-
-Of particular relevance to this class is the documentation on string methods and regular expressions
 Beautiful Soup (4) documentation
-
-This gives a lengthy overview of the Beautiful Soup XML/HTML parsing package
+https://docs.python.org/3/index.html
